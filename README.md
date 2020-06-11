@@ -38,8 +38,7 @@ For Detailed Explaination, refer :
 #### Output: 
 Denoising Images by adding 50% noise to training and testing data
 Input and Output Image comparision :
-<img src="url" width="550" height="550"></img>
-
+![Image](https://github.com/anushkajain97/Image_denoising_using_Autoencoder/blob/master/Output_comparision_image.png)
 
 #### References:
  * [Rhyme - Project: Image denoising using Autoencoder](https://www.coursera.org/learn/autoencoders-image-denoising/home/welcome)
