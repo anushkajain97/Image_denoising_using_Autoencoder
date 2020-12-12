@@ -30,7 +30,7 @@ And has 4 components:
 * Decoder
 * Reconstruction Loss
 
-<img src="https://www.compthree.com/images/blog/ae/ae.png" width="550" height="550"></img>
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/1_has2O8b3HAUqvcqqLrlBQA-768x281.png"></img>
 
 For Detailed Explaination, refer : 
 [Link](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)
