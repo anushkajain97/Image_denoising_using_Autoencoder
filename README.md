@@ -33,8 +33,7 @@ And has 4 components:
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/1_has2O8b3HAUqvcqqLrlBQA-768x281.png"></img>
 
 For Detailed Explaination, refer : 
-[Link](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)
-
+[Link](https://medium.com/@anushka.madwt/what-is-auto-encoder-in-deep-learning-5d668f94651b)
 #### Output: 
 Denoising Images by adding 50% noise to training and testing data
 Input and Output Image comparision :
